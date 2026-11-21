@@ -1,0 +1,6 @@
+deployment.apps/whoami 
+REVISION  CHANGE-CAUSE
+1         creation whoami v1.10
+3         image cassee v9.99
+4         maj image v1.11
+
